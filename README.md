@@ -1,2 +1,4 @@
 # CI-CD
 Continuous Integration and Continuous Delivery (CI/CD)
+
+In terms of definition, Continuous integration(CI) is a development practice requiring developers to regularly integrate their own code into the shared/central repository, likely several times a day. And automation tools are introduced to build, package and do unit tests on a dedicated build server to provide immediate feedback through email to the developers. The above processes will be automatically triggered when the programmer submits their code. Continuous Delivery(CD) is a software development practice where software can be released to production anytime. With the automated scripts, it automated the process, such as setting up the test environment and deploying the software after the quality insurance team confirms, which makes to release process efficient and repeatable.
